@@ -12,4 +12,4 @@ Criar uma conexão via API com o Banco Central, obter os dados da Cotação do U
 
 ## Link do Projeto Finalizado
 
-https://app.powerbi.com/groups/me/reports/ba8f47ce-490f-4696-b82e-62407ca7d0d3/ReportSection?redirectedFromSignup=1
+https://app.powerbi.com/view?r=eyJrIjoiNDNmYWRlOTktY2UwZC00MjRlLWIxNGEtOGUyYjMxZGQwZDJkIiwidCI6ImNkYTZkNWVkLTdiZjctNDZhMi1hOGNmLWU4MWE0ZmExNjUyOCJ9
